@@ -1,0 +1,11 @@
+Form1 = 132, 132, 487, 480, Z, 22, 22, 377, 370, C
+PaintFunctions = 22, 22, 377, 370, C
+Resize = 0, 0, 355, 348, C
+CaracterObject = 0, 0, 0, 0, C
+Caracters = 0, 0, 0, 0, C
+FormShaper = 44, 44, 399, 392, C
+SoundFunctions = 44, 44, 399, 392, C
+Form2 = 0, 219, 511, 463, C, 0, 0, 355, 348, C
+ColorControlfrm = 0, 0, 0, 0, C, 88, 88, 434, 436, C
+ColorCombo = 88, 88, 443, 436, C, 66, 66, 421, 414, C
+ColorComboVars = 110, 110, 465, 458, C
